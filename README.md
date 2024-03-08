@@ -4,7 +4,7 @@
 
 [English](./README-EN.md) | العربية
 <div align="center">
-  <img src="images/Quran.png.png" alt="Quran" width="170px" height="100px" />
+  <img src="images/Quran.png" alt="Quran" width="170px" height="100px" />
   <h1>مرحبا بكم في مشروع القرآن لبرامج أدوبي</h1>
 </div>
 

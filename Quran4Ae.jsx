@@ -21,7 +21,7 @@
 
 (function() {
     // Create and define the UI panel
-    var myPanel = (this instanceof Panel) ? this : new Window("palette", "Quran4Ae", undefined, {
+    var myPanel = (this instanceof Panel) ? this : new Window("palette", "Quran4Ae V1.0", undefined, {
         resizeable: true
     });
 

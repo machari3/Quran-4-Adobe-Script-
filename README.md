@@ -20,8 +20,7 @@
 مقطع تعريفي بالأداة:
 https://youtu.be/_I6qtgjFb-Y
 
-مقطع التحديث v1.1:
-
+مقطع التحديث 1.1:
 https://youtu.be/3NAm5xHwSyA
 
 ### صورة الأداة

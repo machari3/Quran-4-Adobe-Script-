@@ -20,6 +20,9 @@
 مقطع تعريفي بالأداة:
 https://youtu.be/_I6qtgjFb-Y
 
+مقطع التحديث v1.1:
+https://youtu.be/3NAm5xHwSyA
+
 ### صورة الأداة
 <div align="center">
   <img src="images/Quran4Ae_V1.1_screenshot.png" width="45%" height="45%" />

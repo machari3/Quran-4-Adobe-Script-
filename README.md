@@ -22,5 +22,5 @@ https://youtu.be/_I6qtgjFb-Y
 
 ### صورة الأداة
 <div align="center">
-  <img src="images/Quran4Ae_screenshot.png" width="45%" height="45%" />
+  <img src="images/Quran4Ae_V1.1_screenshot.png" width="45%" height="45%" />
 </div>

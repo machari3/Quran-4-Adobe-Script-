@@ -10,7 +10,7 @@
  * الأداة مفتوحة المصدر وسيتم تحسينها والتعديل عليها في الأيام القادمة إن شاء الله
  * ولهذا كل مقترحاتكم ودعمكم مرحب به
  *
- * @link          https://github.com/machari3/Quran-4-Adobe    Quran4Ae Project.
+ * @link          https://github.com/machari3/Quran-4-Adobe-Script-    Quran4Ae Script Project.
  * @version 1.1
  *
  * نشكر القائمين على مشروع قرآن دوت كوم، حيث لم يكن هذا المشروع ممكنًا 
